@@ -8,6 +8,8 @@
 #include<algorithm>
 using namespace std;
 
+// Brute force Approch
+
 void sortColors(vector<int> &nums)
 {
     for (int i = 0; i < nums.size(); i++)
@@ -28,6 +30,58 @@ void sortColors(vector<int> &nums)
     }
 }
 
+//Optimised version having Time complexity = O(n)
+
+void sortColor1(vector<int> nums){
+
+    int count0 = 0;
+    int count1 = 0;
+    int count2 = 0;
+    for(int i = 0; i<nums.size() ; i++){
+        if(nums[i] == 0){
+            count0++;
+        }else if(nums[i] == 1){
+            count1++;
+        }else{
+            count2++;
+        }
+    }
+
+    int i = 0;
+    while(count0>0){
+        nums[i++] = 0;
+        count0--;
+    }
+    while(count1>0){
+        nums[i++] = 1;
+        count1--;
+    }
+    while(count2 > 0){
+        nums[i++] = 2;
+        count2--;
+    }
+        
+}
+
+// Using Dutch National Flag Algorithm (in single pass)
+
+void sortColorUsingDutchAlgo(vector<int> nums){
+
+    int mid = 0,low = 0, high = nums.size()-1;
+
+    while(mid <= high){
+        if(nums[mid] == 2){
+            swap(nums[mid],nums[high]);
+            high--;
+        }else if(nums[mid] == 1){
+            mid++;
+        }else{
+            swap(nums[low],nums[mid]);
+            low++;
+            mid++;
+        }
+    }
+}
 int main(){
     vector<int> nums = {2,0,2,1,1,0};
     sortColors(nums);
