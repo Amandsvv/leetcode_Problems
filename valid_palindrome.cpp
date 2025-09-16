@@ -49,8 +49,16 @@ bool isPalindrome(string s)
 
 int main()
 {
-    string s = "race a car";
-    cout<<isPalindrome(s);
+    // string s = "race a car";
+    // cout<<isPalindrome(s);
+
+    vector<int> A = {1,2,3,4,1};
+    int sum =0;
+    for(int el : A){
+        sum ^= el;
+    }
+
+    cout<<sum;
 
     return 0;
 }
