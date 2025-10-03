@@ -12,6 +12,7 @@
 
 #include <iostream>
 #include <vector>
+#include<algorithm>
 
 using namespace std;
 
@@ -42,6 +43,7 @@ int findMin(vector<int> &nums)
 int main()
 {
     vector<int> nums = {3,4,5,6,1,2};
-    cout<<"Minimum : "<<findMin(nums)<<endl;
+    int n = *(min_element(nums.begin(), nums.end()));
+    cout<<"Minimum : "<<n<<endl;
     return 0;
 }
