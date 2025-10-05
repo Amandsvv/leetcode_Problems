@@ -11,6 +11,6 @@ int fib(int n){
 }
 
 int main(){
-    cout<< "fibonacci till 5th term : "<<fib(5);
+    cout<< (36^92);
     return 0; 
 }
