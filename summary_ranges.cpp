@@ -5,21 +5,34 @@
 
 using namespace std;
 
-int main(){
-    // string range = to_string(0)+"->" + to_string(1);
-    // cout<<range<<endl;
-    vector<int> nums = {0,1,1,2,1};
-    unordered_map<int,vector<int>> idx;
-    for(int i = 0; i < nums.size(); i++){
-        idx[nums[i]].push_back(i);
+vector<string> summaryRanges(vector<int>& nums) {
+    int i = 0, j = 0;
+    vector<string> ans;
+
+    while(j < nums.size()){
+        string range = ""; j++;
+        while(j < nums.size() && (nums[j] == nums[j-1] + 1 || nums[j] == nums[j-1])){
+            j++;
+        }
+        if(i == j-1 || nums[i] == nums[j-1]){
+            range = to_string(nums[i]);
+        }else{
+            range = to_string(nums[i])+"->" + to_string(nums[j-1]);
+        }
+        ans.push_back(range);
+        i = j;
     }
 
-    for(pair<int,vector<int>> pair : idx){
-        cout<<pair.first;
-        cout<<"[";
-        for(int val : pair.second){
-            cout<<val<<",";
-        }
-        cout<<"]"<<endl;
+    return ans;
+}
+
+int main(){
+    vector<int> nums = {1,2,4,5,7};
+
+    vector<string> ans = summaryRanges(nums);
+
+    for(string str : ans){
+        cout<<str<<" ";
     }
+    cout<<endl;
 }
