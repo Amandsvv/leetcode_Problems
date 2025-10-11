@@ -25,5 +25,7 @@ vector<int> intersection(vector<int>& nums1, vector<int>& nums2){
     return ans;
 }
 int main(){ 
-    
+    vector<int> ans = {1,2,7};
+    auto it = find(ans.begin(),ans.end(),7);
+    cout<<*(it);
 }
