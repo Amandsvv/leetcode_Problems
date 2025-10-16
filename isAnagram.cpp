@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <unordered_set>
+#include <unordered_map>
 #include <algorithm>
 
 using namespace std;
@@ -41,7 +41,26 @@ vector<string> removeAnagrams(vector<string> &words)
     return ans;
 }
 
+vector<string> removeAnagramsOptimised(vector<string> &words)
+{
+    vector<string> ans;
+    ans.push_back(words[0]);
+
+    for (int i = 1; i < words.size(); i++)
+    {
+        string a = words[i];
+        string b = ans.back();
+
+        sort(a.begin(), a.end());
+        sort(b.begin(), b.end());
+
+        if (a != b)
+        {
+            ans.push_back(words[i]);
+        }
+    }
+    return ans;
+}
 int main()
 {
-
 }
