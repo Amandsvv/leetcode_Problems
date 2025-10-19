@@ -154,10 +154,27 @@ string addBinary(string a, string b)
     return "";
 }
 
+int convertN(string s){
+    int num = 0;
+    for(char ch : s){
+        if(ch == '1'){
+            num = num*10 + 1;
+        }else{
+            num = num*10;
+        }
+    }
+    return num;
+}
+
+string addBnaryOptimised(string s1, string s2){
+    int num1 = convertN(s1);
+    int num2 = convertN(s2);
+    
+}
+
 int main()
 {
     string s = "11";
     string s2 = "1";
-
     cout<<addBinary(s,s2);
 }

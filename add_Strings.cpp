@@ -46,10 +46,8 @@ string addStrings(string num1, string num2)
         carry = sum / 10;
         n1--;
         n2--;
-        cout<<"ans is : "<<ans<<endl;
     }
 
-    cout<<"ans a last : "<<ans<<" n1 : "<<n1<<" n2 : "<<n2<<endl;
     while (n1 >= 0)
     {
         int sum = carry + c2n(num1[n1]);
@@ -64,7 +62,6 @@ string addStrings(string num1, string num2)
         carry = sum / 10;
         n2--;
     }
-    cout<<"ans lastam : "<<ans<<endl;
     reverse(ans.begin(), ans.end());
     return ans;
 }
