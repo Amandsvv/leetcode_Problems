@@ -11,7 +11,7 @@ int main (){
     int n = 16;
     if(isPowerFour(n)){
         cout<<"yes";
-    }elae{
+    }else{
         cout<<"No";
     }
 }
