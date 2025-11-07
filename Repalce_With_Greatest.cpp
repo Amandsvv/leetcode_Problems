@@ -18,4 +18,7 @@ int main (){
     vector<int> arr = {17,18,4,5,6,1,-1};
     auto obj = Solution();
     vector<int> ans = obj.replaceElements(arr);
+    for(int el : ans){
+        cout<<el<<" ";
+    }
 }
