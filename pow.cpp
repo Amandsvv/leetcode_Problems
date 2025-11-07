@@ -21,5 +21,5 @@ bool isvalid(int m){
 }
 int main(){
     int n = 16;
-    cout<<14%10;
+    cout<<(14==4);
 } 
