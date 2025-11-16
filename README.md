@@ -89,3 +89,15 @@ Each folder contains `.cpp` files with:
 ---
 
 Would you like me to also **add a LeetCode streak badge** (that shows your current streak automatically) in this README for extra motivation?
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
+## String
+|  |
+| ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
+<!---LeetCode Topics End-->
