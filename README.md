@@ -100,6 +100,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
+| [3379-score-of-a-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
