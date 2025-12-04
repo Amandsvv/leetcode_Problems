@@ -1,5 +1,6 @@
 #include<iostream>
 #include<vector>
+#include<algorithm>
 using namespace std;
 class Solution {
 public:
@@ -17,7 +18,8 @@ public:
         }
 
         //Now reverse the transposed maatrix
-        
+        for(int i = 0; i< n; i++)
+            reverse(mat[i].begin(), mat[i].end());
     }
 };
 int main (){
