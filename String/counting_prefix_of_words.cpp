@@ -20,5 +20,6 @@ public:
 int main (){
     Solution obj;
     vector<string> words = {"pay","attention","practice","attend"}; 
-    cout<<obj.prefixCount(words)<<endl;
+    string pref = "at";
+    cout<<obj.prefixCount(words,pref)<<endl;
 }
