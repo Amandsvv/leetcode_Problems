@@ -1,4 +1,3 @@
-
 // 3349. Adjacent Increasing Subarrays Detection I
 
 // Given an array nums of n integers and an integer k, determine whether there exist two adjacent subarrays
