@@ -1,6 +1,6 @@
-
 #include <iostream>
 #include<vector>
+
 
 using namespace std;
 
@@ -51,8 +51,8 @@ public:
 
             if(fresh == 0) return minutes;
 
-            for(auto [x,y] : rotten){
-                if(rot(x,y,grid)) changed = true;
+            for(pair<int,int> pair : rotten){
+                if(rot(pair.first,pair.second,grid)) changed = true;
             }
 
             if(!changed) return -1;
