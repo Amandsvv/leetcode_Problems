@@ -35,6 +35,30 @@ public:
     }
 };
 
+class Solution {
+public:
+    string getHint(string secret, string guess) {
+        int bull = 0, cow = 0;
+        vector<int> count(10,0);
+
+        for(int i = 0; i < secret.size(); i++){
+            if(secret[i] == guess[i]) bull++;
+            else{
+                int s = secret[i] - '0';
+                int g = guess[i] - '0';
+
+                if(count[s] < 0) cow++;
+                if(count[g] > 0) cow++;
+
+                count[s]++;
+                count[g]--;
+            }
+        } 
+
+        return to_string(bull) + 'A' + to_string(cow) + 'B';
+    }
+};
+
 int main (){
 
 }
