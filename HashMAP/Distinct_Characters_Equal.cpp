@@ -51,6 +51,60 @@ public:
         return false;
     }
 };
+
+class Solution {
+public:
+    bool isItPossible(string word1, string word2) {
+
+        vector<int> f1(26, 0), f2(26, 0);
+
+        for (char c : word1) f1[c - 'a']++;
+        for (char c : word2) f2[c - 'a']++;
+
+        int d1 = 0, d2 = 0;
+
+        for (int i = 0; i < 26; i++) {
+            if (f1[i] > 0) d1++;
+            if (f2[i] > 0) d2++;
+        }
+
+        for (int i = 0; i < 26; i++) {
+            for (int j = 0; j < 26; j++) {
+
+                // dono me hona chahiye
+                if (f1[i] == 0 || f2[j] == 0) continue;
+
+                int nd1 = d1;
+                int nd2 = d2;
+
+                if (i == j) {
+                    // same char swap → no change
+                    if (d1 == d2)
+                        return true;
+                    continue;
+                }
+
+                // word1 loses i
+                if (f1[i] == 1) nd1--;
+
+                // word1 gains j
+                if (f1[j] == 0) nd1++;
+
+                // word2 loses j
+                if (f2[j] == 1) nd2--;
+
+                // word2 gains i
+                if (f2[i] == 0) nd2++;
+
+                if (nd1 == nd2)
+                    return true;
+            }
+        }
+
+        return false;
+    }
+};
+
 int main (){
 
 }
