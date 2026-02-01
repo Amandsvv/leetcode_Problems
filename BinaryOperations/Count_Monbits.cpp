@@ -11,6 +11,8 @@
 // Return the count of Monobit integers in the range [0, n] (inclusive).
 #include<iostream>
 #include<vector>
+#include<cmath>
+
 using namespace std;
 
 class Solution {
