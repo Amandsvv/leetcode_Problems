@@ -4,7 +4,6 @@
 #include<algorithm>
 
 using namespace std;
-								// 😉😉😉😉Please upvote if it helps 😉😉😉😉
 class Solution {
 public:
     string removeKdigits(string num, int k) {
