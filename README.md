@@ -118,4 +118,16 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
