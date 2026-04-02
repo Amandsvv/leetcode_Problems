@@ -106,6 +106,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amandsvv/leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,4 +131,12 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+## Matrix
+|  |
+| ------- |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 <!---LeetCode Topics End-->
