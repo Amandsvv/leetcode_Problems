@@ -1,11 +1,11 @@
-# 🧩 LeetCode Problems – Daily Practice
+#  LeetCode Problems – Daily Practice
 
 This repository contains my **daily problem-solving practice from [LeetCode](https://leetcode.com/)**.
 My belief is simple: **Consistency > Intensity**. Even solving **one problem a day** sharpens logic, builds confidence, and keeps me on track toward mastering problem-solving.
 
 ---
 
-## 📌 About
+##  About
 
 * Platform: **LeetCode**
 * Language: **C++** (primary)
@@ -14,16 +14,16 @@ My belief is simple: **Consistency > Intensity**. Even solving **one problem a d
 
 ---
 
-## 🎯 Goals
+##  Goals
 
-* ✅ Solve **minimum 1 problem every day** 🗓️
-* ✅ Improve problem-solving consistency.
-* ✅ Build a strong profile for **interviews & competitive coding**.
-* ✅ Track progress and learning patterns through this repo.
+*  Solve **minimum 1 problem every day** 🗓️
+*  Improve problem-solving consistency.
+*  Build a strong profile for **interviews & competitive coding**.
+*  Track progress and learning patterns through this repo.
 
 ---
 
-## 🛠 Repository Structure
+##  Repository Structure
 
 * Problems are categorized by **topic** and/or **difficulty level**:
 
@@ -46,7 +46,7 @@ Each folder contains `.cpp` files with:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -66,7 +66,7 @@ Each folder contains `.cpp` files with:
 
 ---
 
-## 📝 Notes
+##  Notes
 
 * Every solution is written **step by step with comments** for easy revision.
 * I sometimes include **multiple approaches**: brute force → optimized.
@@ -74,17 +74,17 @@ Each folder contains `.cpp` files with:
 
 ---
 
-## 📧 Contact
+##  Contact
 
-👤 **Aman Gupta**
+ **Aman Gupta**
 
-* 📍 Haridwar, India
-* 💻 Exploring C++ | Backend | DSA
-* 🔗 [GitHub](https://github.com/Amandsvv)
+*  Haridwar, India
+*  Exploring C++ | Backend | DSA
+*  [GitHub](https://github.com/Amandsvv)
 
 ---
 
-✨ *“One problem a day keeps procrastination away.”* 🚀
+ *“One problem a day keeps procrastination away.”* 
 
 ---
 
