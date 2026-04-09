@@ -160,4 +160,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Amandsvv/leetcode_Problems/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
