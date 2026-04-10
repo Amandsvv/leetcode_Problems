@@ -111,11 +111,13 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amandsvv/leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Bit Manipulation
 |  |
 | ------- |
