@@ -113,6 +113,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1848-minimum-distance-to-the-target-element](https://github.com/Amandsvv/leetcode_Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -121,6 +122,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
+| [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Bit Manipulation
@@ -176,4 +178,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0595-big-countries](https://github.com/Amandsvv/leetcode_Problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Amandsvv/leetcode_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/1148-article-views-i) |
+## Binary Search
+|  |
+| ------- |
+| [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
 <!---LeetCode Topics End-->
