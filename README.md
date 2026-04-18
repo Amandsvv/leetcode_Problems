@@ -97,6 +97,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandsvv/leetcode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Amandsvv/leetcode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
