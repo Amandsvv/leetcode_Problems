@@ -137,6 +137,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Amandsvv/leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -177,6 +178,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Amandsvv/leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Database
 |  |
