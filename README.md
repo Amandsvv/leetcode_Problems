@@ -203,6 +203,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0596-classes-with-at-least-5-students](https://github.com/Amandsvv/leetcode_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Amandsvv/leetcode_Problems/tree/master/0619-biggest-single-number) |
 | [1148-article-views-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Amandsvv/leetcode_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Binary Search
 |  |
 | ------- |
