@@ -95,6 +95,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandsvv/leetcode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -113,6 +114,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -174,6 +176,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
