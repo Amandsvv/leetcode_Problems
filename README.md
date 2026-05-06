@@ -98,6 +98,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amandsvv/leetcode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/Amandsvv/leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandsvv/leetcode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Amandsvv/leetcode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -259,4 +260,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0796-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Amandsvv/leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
