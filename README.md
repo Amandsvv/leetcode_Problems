@@ -129,6 +129,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Amandsvv/leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amandsvv/leetcode_Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Amandsvv/leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
@@ -194,6 +195,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1914-cyclically-rotating-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Amandsvv/leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Divide and Conquer
 |  |
