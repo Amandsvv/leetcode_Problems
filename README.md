@@ -121,6 +121,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
+| [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amandsvv/leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amandsvv/leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -266,10 +267,12 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union-Find
 |  |
