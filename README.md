@@ -133,6 +133,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Amandsvv/leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amandsvv/leetcode_Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Amandsvv/leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Amandsvv/leetcode_Problems/tree/master/2784-check-if-array-is-good) |
@@ -148,6 +149,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0138-copy-list-with-random-pointer](https://github.com/Amandsvv/leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
+| [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Amandsvv/leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Amandsvv/leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
@@ -232,6 +234,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amandsvv/leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
 ## Greedy
 |  |
@@ -243,6 +246,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amandsvv/leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Amandsvv/leetcode_Problems/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
