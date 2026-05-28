@@ -240,6 +240,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0619-biggest-single-number](https://github.com/Amandsvv/leetcode_Problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Amandsvv/leetcode_Problems/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Amandsvv/leetcode_Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Amandsvv/leetcode_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Binary Search
 |  |
