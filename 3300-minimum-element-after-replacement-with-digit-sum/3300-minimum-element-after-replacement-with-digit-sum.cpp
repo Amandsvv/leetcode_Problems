@@ -2,13 +2,13 @@ class Solution {
 public:
     int minElement(vector<int>& nums) {
         int ans = INT_MAX;
-        for(int & el : nums){
-            string s = to_string(el);
+        for (int num : nums) {
             int sum = 0;
-            for(char & ch : s){
-                sum += (ch - '0');
+            while (num > 0) {
+                sum += num % 10;
+                num /= 10;
             }
-            ans = min(ans, sum);
+            if (sum < ans) ans = sum;
         }
         return ans;
     }
