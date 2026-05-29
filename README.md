@@ -100,6 +100,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Amandsvv/leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandsvv/leetcode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Amandsvv/leetcode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -144,6 +145,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Amandsvv/leetcode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Amandsvv/leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Amandsvv/leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
