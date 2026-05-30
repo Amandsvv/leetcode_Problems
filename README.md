@@ -244,6 +244,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1148-article-views-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Amandsvv/leetcode_Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Amandsvv/leetcode_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1890-the-latest-login-in-2020](https://github.com/Amandsvv/leetcode_Problems/tree/master/1890-the-latest-login-in-2020) |
 ## Binary Search
 |  |
 | ------- |
