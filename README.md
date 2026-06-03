@@ -151,6 +151,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -188,6 +189,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amandsvv/leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Amandsvv/leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2126-destroying-asteroids](https://github.com/Amandsvv/leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amandsvv/leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,6 +280,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1861-rotating-the-box](https://github.com/Amandsvv/leetcode_Problems/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
 | ------- |
