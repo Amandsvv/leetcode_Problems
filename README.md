@@ -101,6 +101,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1925-count-square-sum-triples](https://github.com/Amandsvv/leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandsvv/leetcode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Amandsvv/leetcode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -322,6 +323,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -344,6 +346,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Amandsvv/leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
