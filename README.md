@@ -167,6 +167,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Amandsvv/leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Amandsvv/leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -289,6 +290,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amandsvv/leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Amandsvv/leetcode_Problems/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amandsvv/leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -300,6 +302,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Amandsvv/leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Amandsvv/leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
