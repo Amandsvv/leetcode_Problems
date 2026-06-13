@@ -119,6 +119,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3379-score-of-a-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/3379-score-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amandsvv/leetcode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amandsvv/leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
