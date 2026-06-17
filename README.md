@@ -110,6 +110,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Amandsvv/leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Amandsvv/leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amandsvv/leetcode_Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -210,6 +211,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amandsvv/leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amandsvv/leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
