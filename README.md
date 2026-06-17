@@ -337,6 +337,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Depth-First Search
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -361,11 +362,13 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Tree
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Amandsvv/leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Amandsvv/leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Segment Tree
 |  |
