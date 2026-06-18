@@ -368,6 +368,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Amandsvv/leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -375,6 +376,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Amandsvv/leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Segment Tree
@@ -389,4 +391,5 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
