@@ -96,6 +96,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Amandsvv/leetcode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amandsvv/leetcode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Amandsvv/leetcode_Problems/tree/master/1925-count-square-sum-triples) |
