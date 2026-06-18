@@ -368,6 +368,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Amandsvv/leetcode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -377,6 +378,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Amandsvv/leetcode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -393,6 +395,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Amandsvv/leetcode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
