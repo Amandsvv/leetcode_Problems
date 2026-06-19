@@ -343,6 +343,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Amandsvv/leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -350,6 +351,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Amandsvv/leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union-Find
@@ -369,6 +371,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Amandsvv/leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Amandsvv/leetcode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -379,6 +382,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Amandsvv/leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Amandsvv/leetcode_Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
