@@ -11,19 +11,19 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, int& ans, string num){
+    int ans = 0;
+    void dfs(TreeNode* root, int num){
         if(!root) return;
-        num += char(root->val+'0');
-        if(!root->left && !root->right){
-            ans += stoi(num);
-            return;
+
+        num = num * 10 + root-> val;
+        if(root->left == NULL && root->right == NULL){
+            ans += num;
         }
-        dfs(root->left, ans, num);
-        dfs(root->right, ans, num);
+        dfs(root->left, num);
+        dfs(root->right, num);
     }
     int sumNumbers(TreeNode* root) {
-        int ans = 0;
-        dfs(root,ans,"");
+        dfs(root, 0);
         return ans;
     }
 };
