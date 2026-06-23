@@ -237,6 +237,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
@@ -345,6 +346,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1732-find-the-highest-altitude](https://github.com/Amandsvv/leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Amandsvv/leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Amandsvv/leetcode_Problems/tree/master/2615-sum-of-distances) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Counting
 |  |
 | ------- |
