@@ -359,6 +359,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0129-sum-root-to-leaf-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Amandsvv/leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Amandsvv/leetcode_Problems/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Amandsvv/leetcode_Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -366,6 +367,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Amandsvv/leetcode_Problems/tree/master/0199-binary-tree-right-side-view) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Amandsvv/leetcode_Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union-Find
@@ -423,4 +425,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Amandsvv/leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Amandsvv/leetcode_Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
