@@ -1,30 +1,23 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int tar) {
-        int st = 0, end = nums.size()-1;
-
-        while(st <= end){
-            int mid = st + (end - st) /2;
-
-            if(nums[mid] == tar){
+    int search(vector<int>& nums, int target) {
+        int i = 0, j = nums.size() - 1;
+        while (i <= j) {
+            int mid = i + (j - i) / 2;
+            if (nums[mid] == target) {
                 return mid;
             }
-
-            if(nums[st] <= nums[mid]){
-                if(tar >= nums[st] && tar <= nums[mid]){
-                    end = mid-1;
+            if (nums[i] <= nums[mid]) {
+                if (target >= nums[i] && target < nums[mid]) {
+                    j = mid - 1;
+                } else {
+                    i = mid + 1;
                 }
-                else{
-                    st = mid + 1;
-                }
-            }
-
-            else{
-                if(tar >= nums[mid] && tar <= nums[end]){
-                    st = mid +1;
-                }
-                else{
-                    end = mid -1;
+            } else {
+                if (target > nums[mid] && target <= nums[j]) {
+                    i = mid + 1;
+                } else {
+                    j = mid - 1;
                 }
             }
         }
