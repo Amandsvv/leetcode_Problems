@@ -10,7 +10,6 @@ public:
                 unionPath[i+1] = unionPath[i];
             }
         }
-        for(auto & el : unionPath)cout<<el;
         vector<bool> ans;
         for(auto & vec: queries){
             ans.push_back(unionPath[vec[0]] == unionPath[vec[1]]);
