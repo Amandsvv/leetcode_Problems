@@ -116,6 +116,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0657-robot-return-to-origin](https://github.com/Amandsvv/leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Amandsvv/leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -262,6 +263,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0005-longest-palindromic-substring](https://github.com/Amandsvv/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Amandsvv/leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [1143-longest-common-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/Amandsvv/leetcode_Problems/tree/master/3620-network-recovery-pathways) |
