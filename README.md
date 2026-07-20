@@ -150,6 +150,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amandsvv/leetcode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1260-shift-2d-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -285,6 +286,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0463-island-perimeter](https://github.com/Amandsvv/leetcode_Problems/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1861-rotating-the-box](https://github.com/Amandsvv/leetcode_Problems/tree/master/1861-rotating-the-box) |
@@ -296,6 +298,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Amandsvv/leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Amandsvv/leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
