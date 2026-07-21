@@ -140,6 +140,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0001-two-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0063-unique-paths-ii) |
@@ -270,6 +271,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amandsvv/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Amandsvv/leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0063-unique-paths-ii) |
@@ -352,6 +354,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amandsvv/leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Amandsvv/leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
