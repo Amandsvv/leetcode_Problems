@@ -104,6 +104,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1925-count-square-sum-triples](https://github.com/Amandsvv/leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amandsvv/leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -188,6 +189,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Amandsvv/leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -234,6 +236,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0191-number-of-1-bits](https://github.com/Amandsvv/leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Amandsvv/leetcode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -455,6 +458,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Amandsvv/leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Amandsvv/leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
 |  |
