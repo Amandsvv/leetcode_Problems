@@ -1,10 +1,27 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int n = nums.size()-1;
-        int option1 = nums[n]*nums[n-1]*nums[n-2];
-        int option2 = nums[0]*nums[1]*nums[n];
-        return max(option1,option2);   
+        int small1 = INT_MAX, small2 = INT_MAX;
+        int a = INT_MIN, b=INT_MIN, c=INT_MIN;
+        for(const auto & val : nums){ 
+            if(val > a && val > b && val >= c){
+                a = b;
+                b = c;
+                c = val;
+            }else if (val > a && val >= b){
+                a = b;
+                b = val;
+            }else if(val > a){
+                a = val;
+            }
+
+            if(val < small1 && val <= small2){
+                small1 = small2;
+                small2 = val;
+            }else if(val < small1){
+                small1 = val;
+            }
+        } 
+        return max((a*b*c), (small1*small2*c));
     }
 };
