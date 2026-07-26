@@ -97,6 +97,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Amandsvv/leetcode_Problems/tree/master/0062-unique-paths) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Amandsvv/leetcode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amandsvv/leetcode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -150,6 +151,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0463-island-perimeter](https://github.com/Amandsvv/leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
@@ -241,6 +243,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amandsvv/leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
