@@ -118,6 +118,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amandsvv/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Amandsvv/leetcode_Problems/tree/master/0072-edit-distance) |
 | [0657-robot-return-to-origin](https://github.com/Amandsvv/leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0796-rotate-string) |
@@ -261,6 +262,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amandsvv/leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -280,6 +282,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amandsvv/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Amandsvv/leetcode_Problems/tree/master/0062-unique-paths) |
