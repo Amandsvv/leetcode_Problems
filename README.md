@@ -97,6 +97,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Amandsvv/leetcode_Problems/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Amandsvv/leetcode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amandsvv/leetcode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -155,6 +156,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0463-island-perimeter](https://github.com/Amandsvv/leetcode_Problems/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -294,6 +296,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0063-unique-paths-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Amandsvv/leetcode_Problems/tree/master/0072-edit-distance) |
+| [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [1143-longest-common-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -413,6 +416,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Amandsvv/leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 ## Trie
 |  |
 | ------- |
@@ -553,4 +557,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amandsvv/leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Amandsvv/leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
