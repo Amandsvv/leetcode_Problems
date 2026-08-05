@@ -39,7 +39,8 @@ public:
                     ans.push_back(i);
             }
         } else {
-            for(int i = 0; i < n; i++) ans.push_back(i);
+            ans.resize(n);
+            iota(ans.begin(), ans.end(), 0);
         }
         return ans;
     }
