@@ -110,6 +110,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Amandsvv/leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -142,6 +143,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Amandsvv/leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3379-score-of-a-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3614-process-string-with-special-operations-ii) |
@@ -396,6 +398,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amandsvv/leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -569,6 +572,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amandsvv/leetcode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Amandsvv/leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
@@ -585,4 +589,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
