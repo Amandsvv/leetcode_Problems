@@ -176,6 +176,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amandsvv/leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -241,6 +242,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1189-maximum-number-of-balloons](https://github.com/Amandsvv/leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Amandsvv/leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Amandsvv/leetcode_Problems/tree/master/2615-sum-of-distances) |
@@ -266,6 +268,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Amandsvv/leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Amandsvv/leetcode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amandsvv/leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -406,6 +409,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0045-jump-game-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
+| [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amandsvv/leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Amandsvv/leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Amandsvv/leetcode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
