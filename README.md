@@ -236,6 +236,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0001-two-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/Amandsvv/leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amandsvv/leetcode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -304,6 +305,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amandsvv/leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [2069-walking-robot-simulation-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/2069-walking-robot-simulation-ii) |
@@ -443,6 +445,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0025-reverse-nodes-in-k-group](https://github.com/Amandsvv/leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Amandsvv/leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amandsvv/leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amandsvv/leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -618,4 +621,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0079-word-search](https://github.com/Amandsvv/leetcode_Problems/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
