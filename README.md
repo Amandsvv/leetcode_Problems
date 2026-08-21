@@ -156,6 +156,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0001-two-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
@@ -621,6 +622,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Amandsvv/leetcode_Problems/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Doubly-Linked List
