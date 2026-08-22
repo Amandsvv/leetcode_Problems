@@ -97,6 +97,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Amandsvv/leetcode_Problems/tree/master/0062-unique-paths) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0877-stone-game) |
@@ -165,6 +166,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0079-word-search](https://github.com/Amandsvv/leetcode_Problems/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/Amandsvv/leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -239,6 +241,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0138-copy-list-with-random-pointer](https://github.com/Amandsvv/leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amandsvv/leetcode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -310,6 +313,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amandsvv/leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [2069-walking-robot-simulation-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
@@ -629,4 +633,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
