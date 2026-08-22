@@ -9,7 +9,7 @@ public:
             sum+=dig; pro*=dig;
             x/=10;
         }
-        cout<<sum << " " << pro;
+
         return n % (sum + pro) == 0;
     }
 };
