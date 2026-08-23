@@ -168,6 +168,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0274-h-index](https://github.com/Amandsvv/leetcode_Problems/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/Amandsvv/leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
@@ -283,6 +284,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Amandsvv/leetcode_Problems/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -574,6 +576,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Amandsvv/leetcode_Problems/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/Amandsvv/leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Graph Theory
 |  |
