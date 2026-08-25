@@ -169,6 +169,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0079-word-search](https://github.com/Amandsvv/leetcode_Problems/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Amandsvv/leetcode_Problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Amandsvv/leetcode_Problems/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0274-h-index](https://github.com/Amandsvv/leetcode_Problems/tree/master/0274-h-index) |
@@ -430,6 +431,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Amandsvv/leetcode_Problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Amandsvv/leetcode_Problems/tree/master/0135-candy) |
 | [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amandsvv/leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Amandsvv/leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
