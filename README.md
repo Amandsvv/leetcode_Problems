@@ -95,6 +95,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Amandsvv/leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Amandsvv/leetcode_Problems/tree/master/0062-unique-paths) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -128,6 +129,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amandsvv/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Amandsvv/leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Amandsvv/leetcode_Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Amandsvv/leetcode_Problems/tree/master/0079-word-search) |
@@ -248,6 +250,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Amandsvv/leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/Amandsvv/leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
