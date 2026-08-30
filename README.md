@@ -133,6 +133,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Amandsvv/leetcode_Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Amandsvv/leetcode_Problems/tree/master/0079-word-search) |
+| [0392-is-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Amandsvv/leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -347,6 +348,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0064-minimum-path-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Amandsvv/leetcode_Problems/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/1143-longest-common-subsequence) |
@@ -457,6 +459,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amandsvv/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
+| [0392-is-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amandsvv/leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Amandsvv/leetcode_Problems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amandsvv/leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
