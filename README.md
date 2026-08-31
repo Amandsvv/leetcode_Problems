@@ -484,6 +484,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0138-copy-list-with-random-pointer](https://github.com/Amandsvv/leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Amandsvv/leetcode_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amandsvv/leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amandsvv/leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
