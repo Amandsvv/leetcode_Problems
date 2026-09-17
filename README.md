@@ -197,6 +197,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amandsvv/leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1563-stone-game-v](https://github.com/Amandsvv/leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Amandsvv/leetcode_Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -269,6 +270,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1331-rank-transform-of-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Amandsvv/leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Amandsvv/leetcode_Problems/tree/master/2615-sum-of-distances) |
@@ -360,6 +362,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1143-longest-common-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Amandsvv/leetcode_Problems/tree/master/1563-stone-game-v) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3620-network-recovery-pathways](https://github.com/Amandsvv/leetcode_Problems/tree/master/3620-network-recovery-pathways) |
@@ -432,6 +435,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amandsvv/leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amandsvv/leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
@@ -628,6 +632,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amandsvv/leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amandsvv/leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
