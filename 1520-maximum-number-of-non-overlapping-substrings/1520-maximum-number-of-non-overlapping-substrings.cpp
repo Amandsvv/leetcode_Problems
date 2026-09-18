@@ -1,29 +1,28 @@
 class Solution {
 public:
     vector<string> maxNumOfSubstrings(string s) {
-        unordered_map<char, pair<int, int>> mpRange;
+        vector<pair<int, int>> mpRange(26, {-1, -1});
         int sz = s.size();
         for (int i = 0; i < sz; i++) {
-            char ch = s[i];
-            if (mpRange.find(ch) != mpRange.end()) {
-                mpRange[ch].second = i;
+            int idx = s[i] - 'a';
+            if (mpRange[idx].first != -1 && mpRange[idx].second != -1) {
+                mpRange[idx].second = i;
             } else {
-                mpRange[ch].first = i;
-                mpRange[ch].second = i;
+                mpRange[idx] = {i, i};
             }
         }
 
         vector<pair<int,int>> ans;
         for (int i = 0; i < sz; i++) {
-            char ch = s[i];            
-            int left = mpRange[ch].first;
+            int idx = s[i] - 'a';            
+            int left = mpRange[idx].first;
 
             if(left != i) continue;
 
-            int right = mpRange[ch].second;
+            int right = mpRange[idx].second;
             bool valid = true;
             for(int j = left; j <= right; j++){
-                char curr = s[j];
+                int curr = s[j] - 'a';
 
                 if(mpRange[curr].first < left){
                     valid = false;
