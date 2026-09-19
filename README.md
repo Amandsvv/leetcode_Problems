@@ -103,6 +103,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Amandsvv/leetcode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amandsvv/leetcode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/Amandsvv/leetcode_Problems/tree/master/1563-stone-game-v) |
@@ -688,4 +689,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
