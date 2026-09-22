@@ -134,6 +134,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0005-longest-palindromic-substring](https://github.com/Amandsvv/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Amandsvv/leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Amandsvv/leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Amandsvv/leetcode_Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Amandsvv/leetcode_Problems/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/0392-is-subsequence) |
@@ -173,6 +174,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0039-combination-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Amandsvv/leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0064-minimum-path-sum) |
@@ -264,6 +266,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0001-two-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Amandsvv/leetcode_Problems/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Amandsvv/leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Amandsvv/leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
@@ -310,6 +313,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Amandsvv/leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/Amandsvv/leetcode_Problems/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
