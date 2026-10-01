@@ -134,6 +134,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amandsvv/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Amandsvv/leetcode_Problems/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amandsvv/leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Amandsvv/leetcode_Problems/tree/master/0072-edit-distance) |
@@ -347,6 +348,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amandsvv/leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -721,6 +723,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
