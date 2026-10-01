@@ -151,6 +151,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amandsvv/leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -356,6 +357,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amandsvv/leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
@@ -483,6 +485,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amandsvv/leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Amandsvv/leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Amandsvv/leetcode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/1927-sum-game) |
