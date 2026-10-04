@@ -41,60 +41,57 @@ public:
 
         // return stk.empty();
 
-        // bool forward = true;
-        // int openBr = 0, closeBr = 0, star = 0;
-        // for(int i = 0; i < sz; i++){
-        //     char ch = s[i];
-        //     if(ch == '(') openBr++;
-        //     if(ch == '*') star++;
-        //     if(ch == ')'){
-        //         if(openBr > 0){
-        //             openBr--;
-        //         }else if(star > 0){
-        //             star--;
-        //         } else{
-        //             forward = false;
-        //         }
-        //     }
-        // }
-        // if(openBr == 0 && forward) return true;
+        int openBr = 0, closeBr = 0, star = 0;
+        for(int i = 0; i < sz; i++){
+            char ch = s[i];
+            if(ch == '(') openBr++;
+            if(ch == '*') star++;
+            if(ch == ')'){
+                if(openBr > 0){
+                    openBr--;
+                }else if(star > 0){
+                    star--;
+                } else{
+                    return false;
+                }
+            }
+        }
 
-        // bool backward = true;
-        // closeBr = 0, star = 0;
-        // for(int i = sz-1; i >= 0; i--){
-        //     char ch = s[i];
-        //     if(ch == ')') closeBr++;
-        //     if(ch == '*') star++;
-        //     if(ch == '('){
-        //         if(closeBr > 0){
-        //             closeBr--;
-        //         }else if(star > 0){
-        //             star--;
-        //         } else{
-        //             backward = false;
-        //         }
-        //     }
-        // }
+        closeBr = 0, star = 0;
+        for(int i = sz-1; i >= 0; i--){
+            char ch = s[i];
+            if(ch == ')') closeBr++;
+            if(ch == '*') star++;
+            if(ch == '('){
+                if(closeBr > 0){
+                    closeBr--;
+                }else if(star > 0){
+                    star--;
+                } else{
+                    return false;
+                }
+            }
+        }
 
-        // return backward && closeBr == 0;
+        return true;
 
         //Pass 1
-        int balance = 0;
-        for(char ch : s){
-            if(ch == '(' || ch == '*') balance++;
-            else balance--;
+        // int balance = 0;
+        // for(char ch : s){
+        //     if(ch == '(' || ch == '*') balance++;
+        //     else balance--;
 
-            if(balance < 0) return false;
-        }
+        //     if(balance < 0) return false;
+        // }
 
-        balance = 0;
-        for(int i = sz-1; i >= 0; i--){
-            if(s[i] == ')' || s[i] == '*') balance++;
-            else balance--;
+        // balance = 0;
+        // for(int i = sz-1; i >= 0; i--){
+        //     if(s[i] == ')' || s[i] == '*') balance++;
+        //     else balance--;
 
-            if(balance < 0) return false;
-        }
-        
-        return true;
+        //     if(balance < 0) return false;
+        // }
+
+        // return true;
     }
 };
