@@ -143,6 +143,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0093-restore-ip-addresses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0392-is-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Amandsvv/leetcode_Problems/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -355,6 +356,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amandsvv/leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -389,6 +391,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -485,6 +488,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Amandsvv/leetcode_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Amandsvv/leetcode_Problems/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amandsvv/leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -734,6 +738,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0020-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
