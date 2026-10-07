@@ -9,12 +9,12 @@ public:
                 stk.push(ch);
             }else{
                 if(stk.empty()){
-                    ans++;
+                    ans++; // open brackets needed to satisfy the string
                 }else{
                     stk.pop();
                 }
             }
         }
-        return ans + stk.size();
+        return ans + stk.size(); //stk.size() will be the opening brackets which still needs to satisfied by closing one. 
     }
 };
