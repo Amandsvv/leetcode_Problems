@@ -154,6 +154,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
@@ -364,6 +365,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amandsvv/leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -496,6 +498,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amandsvv/leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amandsvv/leetcode_Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Amandsvv/leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -748,5 +751,6 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amandsvv/leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
