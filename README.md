@@ -240,6 +240,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amandsvv/leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amandsvv/leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Amandsvv/leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amandsvv/leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amandsvv/leetcode_Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
@@ -345,6 +346,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Amandsvv/leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amandsvv/leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amandsvv/leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/Amandsvv/leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Amandsvv/leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -480,6 +482,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amandsvv/leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amandsvv/leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amandsvv/leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Amandsvv/leetcode_Problems/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -508,6 +511,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Amandsvv/leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amandsvv/leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amandsvv/leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -649,6 +653,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Amandsvv/leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/Amandsvv/leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search Tree
