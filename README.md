@@ -180,6 +180,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3614-process-string-with-special-operations-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3614-process-string-with-special-operations-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Amandsvv/leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
 | ------- |
