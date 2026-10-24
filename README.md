@@ -101,6 +101,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0781-rabbits-in-forest](https://github.com/Amandsvv/leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Amandsvv/leetcode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -207,6 +208,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0781-rabbits-in-forest](https://github.com/Amandsvv/leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0877-stone-game) |
@@ -299,6 +301,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0146-lru-cache](https://github.com/Amandsvv/leetcode_Problems/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0781-rabbits-in-forest](https://github.com/Amandsvv/leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amandsvv/leetcode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Amandsvv/leetcode_Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -518,6 +521,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0134-gas-station](https://github.com/Amandsvv/leetcode_Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Amandsvv/leetcode_Problems/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
+| [0781-rabbits-in-forest](https://github.com/Amandsvv/leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amandsvv/leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
