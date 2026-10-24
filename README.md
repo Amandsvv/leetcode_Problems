@@ -205,6 +205,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amandsvv/leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/Amandsvv/leetcode_Problems/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Amandsvv/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amandsvv/leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0463-island-perimeter](https://github.com/Amandsvv/leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
@@ -344,6 +345,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Amandsvv/leetcode_Problems/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Amandsvv/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Amandsvv/leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Amandsvv/leetcode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -506,6 +508,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amandsvv/leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Amandsvv/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amandsvv/leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -558,6 +561,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0005-longest-palindromic-substring](https://github.com/Amandsvv/leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/Amandsvv/leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amandsvv/leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Amandsvv/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Amandsvv/leetcode_Problems/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amandsvv/leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Amandsvv/leetcode_Problems/tree/master/1861-rotating-the-box) |
@@ -799,4 +803,12 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Amandsvv/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Amandsvv/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
