@@ -212,6 +212,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0877-stone-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Amandsvv/leetcode_Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amandsvv/leetcode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -355,6 +356,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0274-h-index](https://github.com/Amandsvv/leetcode_Problems/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Amandsvv/leetcode_Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1331-rank-transform-of-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Amandsvv/leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Amandsvv/leetcode_Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -406,6 +408,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amandsvv/leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Amandsvv/leetcode_Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -453,6 +456,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Amandsvv/leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Amandsvv/leetcode_Problems/tree/master/0874-walking-robot-simulation) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Amandsvv/leetcode_Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/2069-walking-robot-simulation-ii) |
