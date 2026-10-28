@@ -293,6 +293,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3838-weighted-word-mapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Amandsvv/leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -353,6 +354,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Amandsvv/leetcode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amandsvv/leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -440,6 +442,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3620-network-recovery-pathways](https://github.com/Amandsvv/leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -455,6 +458,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1914-cyclically-rotating-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
