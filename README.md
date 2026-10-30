@@ -184,6 +184,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Amandsvv/leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Array
 |  |
 | ------- |
@@ -700,6 +701,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2333-minimum-sum-of-squared-difference](https://github.com/Amandsvv/leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/Amandsvv/leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -721,6 +723,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3310-remove-methods-from-project](https://github.com/Amandsvv/leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Amandsvv/leetcode_Problems/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -743,6 +746,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Amandsvv/leetcode_Problems/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
