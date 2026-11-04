@@ -197,6 +197,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0045-jump-game-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Amandsvv/leetcode_Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Amandsvv/leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Amandsvv/leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0064-minimum-path-sum) |
@@ -430,6 +431,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0022-generate-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Amandsvv/leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Amandsvv/leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0063-unique-paths-ii) |
@@ -489,6 +491,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Amandsvv/leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Amandsvv/leetcode_Problems/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
