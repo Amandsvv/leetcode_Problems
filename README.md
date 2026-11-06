@@ -265,6 +265,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2574-left-and-right-sum-differences](https://github.com/Amandsvv/leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Amandsvv/leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Amandsvv/leetcode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Amandsvv/leetcode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Amandsvv/leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Amandsvv/leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amandsvv/leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -330,6 +331,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2540-minimum-common-value](https://github.com/Amandsvv/leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Amandsvv/leetcode_Problems/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Amandsvv/leetcode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/Amandsvv/leetcode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Amandsvv/leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amandsvv/leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -386,6 +388,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2126-destroying-asteroids](https://github.com/Amandsvv/leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amandsvv/leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Amandsvv/leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Amandsvv/leetcode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Amandsvv/leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Amandsvv/leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -749,6 +752,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandsvv/leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amandsvv/leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Amandsvv/leetcode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amandsvv/leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Amandsvv/leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
