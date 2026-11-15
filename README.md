@@ -109,6 +109,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1401-circle-and-rectangle-overlapping](https://github.com/Amandsvv/leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Amandsvv/leetcode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Amandsvv/leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Amandsvv/leetcode_Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1840-maximum-building-height](https://github.com/Amandsvv/leetcode_Problems/tree/master/1840-maximum-building-height) |
@@ -234,6 +235,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Amandsvv/leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1563-stone-game-v](https://github.com/Amandsvv/leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Amandsvv/leetcode_Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -453,6 +455,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Amandsvv/leetcode_Problems/tree/master/1563-stone-game-v) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3524-find-x-value-of-array-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -624,6 +627,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amandsvv/leetcode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Amandsvv/leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Amandsvv/leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Amandsvv/leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
