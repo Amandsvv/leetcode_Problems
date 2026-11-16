@@ -170,6 +170,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1927-sum-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Amandsvv/leetcode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Amandsvv/leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Amandsvv/leetcode_Problems/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amandsvv/leetcode_Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -490,6 +491,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2069-walking-robot-simulation-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Amandsvv/leetcode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Amandsvv/leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Amandsvv/leetcode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
