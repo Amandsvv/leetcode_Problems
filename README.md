@@ -219,6 +219,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Amandsvv/leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Amandsvv/leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amandsvv/leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Amandsvv/leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0781-rabbits-in-forest](https://github.com/Amandsvv/leetcode_Problems/tree/master/0781-rabbits-in-forest) |
@@ -410,6 +411,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0032-longest-valid-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Amandsvv/leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Amandsvv/leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Amandsvv/leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amandsvv/leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -847,4 +849,8 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Amandsvv/leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
