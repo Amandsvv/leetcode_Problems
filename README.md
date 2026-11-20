@@ -280,6 +280,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amandsvv/leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Amandsvv/leetcode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Amandsvv/leetcode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Amandsvv/leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Amandsvv/leetcode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -400,6 +401,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [2747-count-zero-request-servers](https://github.com/Amandsvv/leetcode_Problems/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/Amandsvv/leetcode_Problems/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Amandsvv/leetcode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/Amandsvv/leetcode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -463,6 +465,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Amandsvv/leetcode_Problems/tree/master/1563-stone-game-v) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Amandsvv/leetcode_Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Amandsvv/leetcode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3524-find-x-value-of-array-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/Amandsvv/leetcode_Problems/tree/master/3620-network-recovery-pathways) |
