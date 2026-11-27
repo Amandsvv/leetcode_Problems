@@ -318,6 +318,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3875-construct-uniform-parity-array-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -477,6 +478,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3699-number-of-zigzag-arrays-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -599,6 +601,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Amandsvv/leetcode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amandsvv/leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Amandsvv/leetcode_Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Amandsvv/leetcode_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
