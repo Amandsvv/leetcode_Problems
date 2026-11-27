@@ -232,6 +232,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0877-stone-game](https://github.com/Amandsvv/leetcode_Problems/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amandsvv/leetcode_Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Amandsvv/leetcode_Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1219-path-with-maximum-gold](https://github.com/Amandsvv/leetcode_Problems/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Amandsvv/leetcode_Problems/tree/master/1306-jump-game-iii) |
@@ -487,6 +488,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0064-minimum-path-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Amandsvv/leetcode_Problems/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/Amandsvv/leetcode_Problems/tree/master/0463-island-perimeter) |
+| [1219-path-with-maximum-gold](https://github.com/Amandsvv/leetcode_Problems/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Amandsvv/leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amandsvv/leetcode_Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -827,6 +829,7 @@ Would you like me to also **add a LeetCode streak badge** (that shows your curre
 | [0039-combination-sum](https://github.com/Amandsvv/leetcode_Problems/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Amandsvv/leetcode_Problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Amandsvv/leetcode_Problems/tree/master/0093-restore-ip-addresses) |
+| [1219-path-with-maximum-gold](https://github.com/Amandsvv/leetcode_Problems/tree/master/1219-path-with-maximum-gold) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amandsvv/leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Doubly-Linked List
 |  |
